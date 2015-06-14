@@ -1,0 +1,54 @@
+
+bar_ainm1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+b4
+  rotate: false
+  xy: 1, 186
+  size: 345, 312
+  orig: 345, 312
+  offset: 0, 0
+  index: -1
+b3
+  rotate: false
+  xy: 348, 249
+  size: 345, 249
+  orig: 345, 249
+  offset: 0, 0
+  index: -1
+b2
+  rotate: false
+  xy: 1, 1
+  size: 345, 183
+  orig: 345, 183
+  offset: 0, 0
+  index: -1
+b1
+  rotate: false
+  xy: 348, 156
+  size: 345, 91
+  orig: 345, 91
+  offset: 0, 0
+  index: -1
+b5
+  rotate: false
+  xy: 348, 63
+  size: 329, 91
+  orig: 329, 91
+  offset: 0, 0
+  index: -1
+b7
+  rotate: false
+  xy: 695, 301
+  size: 197, 197
+  orig: 197, 197
+  offset: 0, 0
+  index: -1
+b0
+  rotate: false
+  xy: 348, 22
+  size: 345, 39
+  orig: 345, 39
+  offset: 0, 0
+  index: -1

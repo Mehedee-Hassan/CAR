@@ -1,0 +1,47 @@
+
+bar_anim1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+b4
+  rotate: false
+  xy: 1, 186
+  size: 345, 312
+  orig: 345, 312
+  offset: 0, 0
+  index: -1
+b3
+  rotate: false
+  xy: 348, 249
+  size: 345, 249
+  orig: 345, 249
+  offset: 0, 0
+  index: -1
+b2
+  rotate: false
+  xy: 1, 1
+  size: 345, 183
+  orig: 345, 183
+  offset: 0, 0
+  index: -1
+b1
+  rotate: false
+  xy: 348, 156
+  size: 345, 91
+  orig: 345, 91
+  offset: 0, 0
+  index: -1
+b5
+  rotate: false
+  xy: 348, 70
+  size: 329, 84
+  orig: 329, 84
+  offset: 0, 0
+  index: -1
+b0
+  rotate: false
+  xy: 348, 29
+  size: 345, 39
+  orig: 345, 39
+  offset: 0, 0
+  index: -1

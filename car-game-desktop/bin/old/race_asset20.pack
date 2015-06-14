@@ -1,0 +1,103 @@
+
+race_asset20.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+street
+  rotate: false
+  xy: 1, 264
+  size: 527, 759
+  orig: 527, 759
+  offset: 0, 0
+  index: -1
+fence
+  rotate: false
+  xy: 530, 226
+  size: 22, 797
+  orig: 22, 797
+  offset: 0, 0
+  index: -1
+bar4
+  rotate: false
+  xy: 554, 711
+  size: 345, 312
+  orig: 345, 312
+  offset: 0, 0
+  index: -1
+lorry
+  rotate: false
+  xy: 1, 1
+  size: 119, 261
+  orig: 119, 261
+  offset: 0, 0
+  index: -1
+bar5
+  rotate: false
+  xy: 554, 618
+  size: 329, 91
+  orig: 329, 91
+  offset: 0, 0
+  index: -1
+bar0
+  rotate: false
+  xy: 122, 223
+  size: 345, 39
+  orig: 345, 39
+  offset: 0, 0
+  index: -1
+resume_icon
+  rotate: false
+  xy: 901, 955
+  size: 75, 68
+  orig: 75, 68
+  offset: 0, 0
+  index: -1
+car
+  rotate: false
+  xy: 978, 936
+  size: 45, 87
+  orig: 45, 87
+  offset: 0, 0
+  index: -1
+lifeup
+  rotate: false
+  xy: 469, 203
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+prog2
+  rotate: false
+  xy: 554, 601
+  size: 119, 15
+  orig: 119, 15
+  offset: 0, 0
+  index: -1
+prog_back3
+  rotate: false
+  xy: 122, 209
+  size: 112, 12
+  orig: 112, 12
+  offset: 0, 0
+  index: -1
+dram
+  rotate: false
+  xy: 901, 895
+  size: 42, 58
+  orig: 42, 58
+  offset: 0, 0
+  index: -1
+powerup
+  rotate: false
+  xy: 554, 558
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+damage_icon
+  rotate: false
+  xy: 122, 187
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
